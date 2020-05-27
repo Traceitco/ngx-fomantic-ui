@@ -141,7 +141,7 @@
           }
         }
       }
-    },
+    }
   },
   "defaultProject": "ngx-fomantic-ui"
 }
